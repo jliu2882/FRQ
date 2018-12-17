@@ -1,5 +1,11 @@
 package jliu2882;
 
+/**
+ *
+ * Key Concepts: Looping through ArrayLists
+ * Problem: We have to create a class that has a list that can be manipulated by the user
+ *
+ */
 public class Main {
 
     public static void main(String[] args) {
