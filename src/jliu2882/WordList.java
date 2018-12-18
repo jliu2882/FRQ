@@ -43,7 +43,7 @@ public class WordList {
      * Created a function that loops through the function and removes words of len length
      * @param len is the length of words we are removing
      */
-    public void removeWordzOfLength(int len){
+    public void removeWordsOfLength(int len){
         for(int i = myList.size()-1; i >= 0;i--){
             if(myList.get(i).length()==len){
                 myList.remove(i);
