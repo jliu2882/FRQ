@@ -30,11 +30,11 @@ public class Main {
          * Removes the words of length 4, 3, and 2
          * Print it after each time
          */
-        animals.removeWordzOfLength(4);
+        animals.removeWordsOfLength(4);
         System.out.println(animals.toString());
-        animals.removeWordzOfLength(3);
+        animals.removeWordsOfLength(3);
         System.out.println(animals.toString());
-        animals.removeWordzOfLength(2);
+        animals.removeWordsOfLength(2);
         System.out.println(animals.toString());
     }
 }
